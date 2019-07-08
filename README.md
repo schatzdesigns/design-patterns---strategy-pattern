@@ -7,8 +7,8 @@ In computer programming, the strategy pattern (also known as the policy pattern)
 
 Strategy lets the algorithm vary independently from clients that use it.
 
-### [Branch without-strategy-pattern]()
+### [Branch without-strategy-pattern](https://github.com/schatzdesigns/design-patterns---strategy-pattern/tree/without-strategy-pattern)
 Shows the code without the implementation of the Strategy Pattern.
 
-### [Branch with-strategy-pattern]()
+### [Branch with-strategy-pattern](https://github.com/schatzdesigns/design-patterns---strategy-pattern/tree/with-strategy-pattern)
 Shows the code with the implementation of the Strategy Pattern.
