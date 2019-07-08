@@ -1,6 +1,6 @@
-package com.schatzdesigns;
+package com.schatzdesigns.models;
 
-public interface Duck {
+interface IDuck {
     String fly();
 
     String walk();
